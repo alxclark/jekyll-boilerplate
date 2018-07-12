@@ -1,0 +1,22 @@
+.jekyll__container {
+  background: $jekyll-gray;
+  padding-bottom: 30px;
+  h1 {
+    color: $jekyll-yellow;
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: lighter;
+  }
+  img {
+    width: 320px;
+    margin: auto;
+    display: block;
+  }
+}
+
+h2 {
+  text-align: center;
+  code {
+    color: $jekyll-yellow;
+  }
+}
